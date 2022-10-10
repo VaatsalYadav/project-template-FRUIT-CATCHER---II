@@ -145,8 +145,8 @@ class Game{
        
 
         gameOver() {
-        //     fill the white color
-        //  print the gameover message
+        fill("white")
+         text("GAME OVER",displayWidth/2-400,displayHeight/2-200)
         }
             
 
